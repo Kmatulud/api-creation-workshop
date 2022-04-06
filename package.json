@@ -4,11 +4,22 @@
   "description": "In thie workshop we explore how to create an API using ExpressJS.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
-  }
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmatulud/api-creation-workshop.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Kmatulud/api-creation-workshop/issues"
+  },
+  "homepage": "https://github.com/Kmatulud/api-creation-workshop#readme"
 }
