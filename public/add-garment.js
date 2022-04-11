@@ -57,5 +57,5 @@ addGarmetBtn.addEventListener('click', function(evt) {
 
 addGarmetButtonSection.addEventListener('click', function(evt) {
 	evt.preventDefault();
-	toggleAddGarmetScreen()
+	toggleAddGarmetScreen();
 });
